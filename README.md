@@ -36,4 +36,4 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=darklatiz)](https://github.com/anuraghazra/github-readme-stats)
+[![Luis's github stats](https://github-readme-stats.vercel.app/api?username=darklatiz)](https://github.com/anuraghazra/github-readme-stats)
