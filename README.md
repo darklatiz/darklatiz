@@ -1,5 +1,13 @@
 ## Hi there, I'm Luis Enrique - aka [Geek Flu / Spike Storm](https://dev.to/darklatiz/) 👋
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is Luis E and I'm a software developer/DevOps engineer. I'm from Mexico, living in Sunnyvale, California and currently working at Walmart Labs.
+
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [TOBE Defined]() as well as on [Medium](https://dev.to/darklatiz/) and [DEV.to](https://dev.to/darklatiz/).
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
