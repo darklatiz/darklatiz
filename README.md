@@ -32,7 +32,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 - [Raspberry Pi para novatos](https://dev.to/darklatiz/raspberry-pi-para-novatos-1c9f)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://dev.to/darklatiz/)
 
 ---
 
