@@ -36,4 +36,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ---
 
-[![Luis's github stats](https://github-readme-stats.vercel.app/api?username=darklatiz)](https://github.com/anuraghazra/github-readme-stats)
+[![Luis's github stats](https://github-readme-stats.vercel.app/api?username=darklatiz)](https://github.com/darklatiz/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darklatiz&layout=compact)](https://github.com/darklatiz/)
