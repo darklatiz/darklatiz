@@ -1,4 +1,4 @@
-## Hi there, I'm Luis Enrique - aka [Geek Flu / Spike Storm](https://dev.to/darklatiz/) 👋
+## Hi there, I'm Luis Enrique - aka [GigaByte](https://dev.to/darklatiz/) 👋
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
